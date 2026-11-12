@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Fantasy Forge</string>
+    <string name="heading_fantasy_character_creator">Fantasy Character Creator</string>
+    <string name="subtitle_realm_forge">Summon a hero from the chronicles</string>
+    <string name="action_generate_character">Generate Character</string>
+    <string name="action_generate_portrait">Generate Portrait</string>
+    <string name="action_regenerate_portrait">Regenerate Portrait</string>
+    <string name="label_character_name">Name</string>
+    <string name="label_character_class">Class</string>
+    <string name="label_archetype_traits">Archetype Attributes</string>
+    <string name="label_signature_gear">Signature Relic</string>
+    <string name="label_recent_summons">Recent Summons</string>
+    <string name="label_character_number">Hero #%1$d</string>
+    <string name="label_portrait_version">Portrait v%1$d</string>
+    <string name="label_portrait_idle_hint">Tap Generate Portrait to conjure character art</string>
+    <string name="label_portrait_loading">Conjuring portrait for %1$s…</string>
+    <string name="label_portrait_regenerating">Painting new portrait for %1$s…</string>
+    <string name="cd_realm_banner">Illuminated fantasy citadel archway banner</string>
+    <string name="cd_class_sigil">%1$s class heraldic sigil</string>
+    <string name="cd_character_portrait">Fantasy portrait of %1$s the %2$s</string>
+    <string name="cd_generate_dice">Generate random fantasy character</string>
+    <string name="stat_might">Might</string>
+    <string name="stat_arcana">Arcana</string>
+    <string name="stat_agility">Agility</string>
+    <string name="class_mage">Mage</string>
+    <string name="class_rogue">Rogue</string>
+    <string name="class_warrior">Warrior</string>
+    <string name="class_paladin">Paladin</string>
+    <string name="class_ranger">Ranger</string>
+    <string name="class_necromancer">Necromancer</string>
+    <string name="class_druid">Druid</string>
+</resources>

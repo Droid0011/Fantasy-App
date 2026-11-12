@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Forge",
+  "description": "A fantasy character creator that generates unique fantasy-style character names and RPG classes on demand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
